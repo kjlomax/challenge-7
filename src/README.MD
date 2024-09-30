@@ -1,10 +1,10 @@
 # README Generator
 
-  ![MIT]()
+  ![MIT](#https://img.shields.io/badge/License-MIT-yellow.svg)
 
   ## Description
 
-  makes a markdown file using CLI
+  This application will create a README.md file using information from the command line.
 
   ## Table of contents
 
@@ -26,14 +26,16 @@
   ## Usage
 
   When you answer a prompt with the following input:
-  > Title
+  > title
 
   it will add your answer to the README file.
-  > # Title
+  > # title
+
+  [Example](https://drive.google.com/file/d/1GDMFpfVZH5SRMuFS93SpAc4ZptHss-js/view?usp=drive_link)
 
   ## License
 
-  This project is licensed under the MIT license. Click [here]() for more information.
+  This project is licensed under the MIT license. Click [here](#https://opensource.org/licenses/MIT) for more information.
 
   ## Contributing
 
